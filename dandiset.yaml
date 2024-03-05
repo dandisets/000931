@@ -29,8 +29,8 @@ assetsSummary:
   - Units
 citation: A. Dehaqani, Alireza; Michelon, Filippo; Patella, Paola; Petrucco, Luigi;
   Piasini, Eugenio; Iurilli, Giuliano (2024) A mechanosensory feedback that uncouples
-  external and self-generated sensory responses in the olfactory cortex (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000931/draft
+  external and self-generated sensory responses in the olfactory cortex (Version 0.240305.0945)
+  [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000931/0.240305.0945
 contributor:
 - identifier: 0009-0007-3575-0425
   includeInCitation: true
@@ -88,14 +88,15 @@ dateCreated: '2024-03-05T07:44:38.963682+00:00'
 datePublished: '2024-03-05T09:45:03.097923+00:00'
 description: 'Dataset for "A mechanosensory feedback that uncouples external and self-generated
   sensory responses in the olfactory cortex", by A. Dehaquani, Michelon, et al., 2024 '
+doi: 10.48324/dandi.000931/0.240305.0945
 ethicsApproval: []
-id: DANDI:000931/draft
+id: DANDI:000931/0.240305.0945
 identifier: DANDI:000931
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000931/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000931/0.240305.0945/assets.yaml
 name: A mechanosensory feedback that uncouples external and self-generated sensory
   responses in the olfactory cortex
 protocol: []
@@ -116,6 +117,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.6
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000931/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000931/0.240305.0945
+version: 0.240305.0945
 wasGeneratedBy: []
