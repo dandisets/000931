@@ -36,8 +36,8 @@ assetsSummary:
   - Units
 citation: A. Dehaqani, Alireza; Michelon, Filippo; Patella, Paola; Petrucco, Luigi;
   Piasini, Eugenio; Iurilli, Giuliano (2026) A mechanosensory feedback that uncouples
-  external and self-generated sensory responses in the olfactory cortex (Version draft)
-  [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000931/draft
+  external and self-generated sensory responses in the olfactory cortex (Version 0.261011.1559)
+  [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000931/0.261011.1559
 contributor:
 - affiliation:
   - identifier: https://ror.org/042t93s57
@@ -126,10 +126,12 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2024-03-05T07:44:38.963682+00:00'
+datePublished: '2026-10-11T15:59:10.123345+00:00'
 description: 'Dataset for "A mechanosensory feedback that uncouples external and self-generated
   sensory responses in the olfactory cortex", by A. Dehaquani, Michelon, et al., 2024 '
+doi: 10.48324/dandi.000931/0.261011.1559
 ethicsApproval: []
-id: DANDI:000931/draft
+id: DANDI:000931/0.261011.1559
 identifier: DANDI:000931
 keywords:
 - mechanosensory feedback
@@ -138,10 +140,22 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000931/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000931/0.261011.1559/assets.yaml
 name: A mechanosensory feedback that uncouples external and self-generated sensory
   responses in the olfactory cortex
 protocol: []
+publishedBy:
+  endDate: '2026-10-11T15:59:10.123345+00:00'
+  id: urn:uuid:5b61ba94-4890-4ee3-aa17-176990f49d3a
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-10-11T15:59:10.123345+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:92c1d456-61d6-4c59-bfec-236ac317ec16
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: doi:10.1016/j.celrep.2024.114013
   name: A mechanosensory feedback that uncouples external and self-generated sensory
@@ -155,6 +169,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.6
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000931/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000931/0.261011.1559
+version: 0.261011.1559
 wasGeneratedBy: []
